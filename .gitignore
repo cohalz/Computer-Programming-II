@@ -1,2 +1,10 @@
 !*.c
 *.o
+
+*.out
+
+0417/pasta
+
+0417/pastadebug
+
+0417/pasta.txt
