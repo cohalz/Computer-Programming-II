@@ -3,8 +3,6 @@
 
 *.out
 
-0417/pasta
+/other/*
 
-0417/pastadebug
-
-0417/pasta.txt
+*.zip
