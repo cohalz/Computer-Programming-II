@@ -3,6 +3,6 @@
 
 *.out
 
-/other/*
+*/other/
 
 *.zip
