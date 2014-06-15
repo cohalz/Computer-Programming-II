@@ -24,10 +24,10 @@ int salesman(); // 現在の順列での総距離を求める関数
 int main() {
   int i;
 
-  printf("n = ");
+  printf("Please input number of city = ");
   while(scanf("%d", &n) != 1 || n < 1) {
     puts("Wrong input.");
-    printf("n = ");
+    printf("Please input number of city = ");
     while(getchar() != '\n');
   }
   
@@ -148,3 +148,5 @@ void enumerate(int k) {
     p[i] = temp;
   }
 }
+
+
